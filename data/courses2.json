@@ -1,0 +1,397 @@
+[
+  {
+    "text": "DS\u00a05110. Essentials of Data Science",
+    "url": "https://catalog.northeastern.edu/search/?P=DS%205110",
+    "description": "Introduces students to the core tasks in data science, including data collection, storage, tidying, transformation, processing, management, and modeling for the purpose of extracting knowledge from raw observations. Programming is a cross-cutting aspect of the course. Offers students an opportunity to gain experience with data science tasks and tools through short assignments. Includes a term project based on real-world data."
+  },
+  {
+    "text": "CS\u00a05800. Algorithms",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%205800",
+    "description": "Presents the mathematical techniques used for the design and analysis of computer algorithms. Focuses on algorithmic design paradigms and techniques for analyzing the correctness, time, and space complexity of algorithms. Topics may include asymptotic notation, recurrences, loop invariants, Hoare triples, sorting and searching, advanced data structures, lower bounds, hashing, greedy algorithms, dynamic programming, graph algorithms, and NP-completeness.Attribute(s):NUpath Formal/Quant Reasoning"
+  },
+  {
+    "text": "EECE\u00a07205. Fundamentals of Computer Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207205",
+    "description": "Introduces fundamental techniques in computer engineering used throughout the graduate curriculum. Covers basic programming and analysis methods and the formulation and solution of a wide range of computer engineering problems. Also discusses the applications of algorithm analysis and complexity theory to analyzing and solving problems. Emphasizes those fundamental computational problems and related algorithms whose solution can be obtained in polynomial time. For basic computational problems such as sorting, searching, elementary graph algorithms, shortest-paths problems, as well as flow problems in networks, many different algorithms and data structures are described and analyzed, implemented, and compared both from a theoretical and from an experimental point of view."
+  },
+  {
+    "text": "CS\u00a06140. Machine Learning",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%206140",
+    "description": "Provides a broad look at a variety of techniques used in machine learning and data mining, and also examines issues associated with their use. Topics include algorithms for supervised learning including decision tree induction, artificial neural networks, instance-based learning, probabilistic methods, and support vector machines; unsupervised learning; and reinforcement learning. Also covers computational learning theory and other methods for analyzing and measuring the performance of learning algorithms. Course work includes a programming term project.Prerequisite(s):CS\u00a05800with a minimum grade of C-  orCS\u00a07800with a minimum grade of C-"
+  },
+  {
+    "text": "EECE\u00a05644. Introduction to Machine Learning and Pattern Recognition",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%205644",
+    "description": "Studies machine learning (the study and design of algorithms that enable computers/machines to learn from experience/data). Covers a range of algorithms, focusing on the underlying models between each approach. Emphasizes the foundations to prepare students for research in machine learning. Topics include Bayes decision theory, maximum likelihood parameter estimation, model selection, mixture density estimation, support vector machines, neural networks, probabilistic graphics models, and ensemble methods (boosting and bagging). Offers students an opportunity to learn where and how to apply machine learning algorithms and why they work.Prerequisite(s):EECE\u00a03468with a minimum grade of D-  orMATH\u00a03081with a minimum grade of D-  orMATH\u00a01215with a minimum grade of D-  orMATH\u00a02280with a minimum grade of D-  orIE\u00a03412with a minimum grade of D-  orCIVE\u00a03464with a minimum grade of D-  orBIOE\u00a02365with a minimum grade of D-  orMGSC\u00a02301with a minimum grade of D-  or  graduate program admission"
+  },
+  {
+    "text": "DS\u00a05500. Data Science Capstone",
+    "url": "https://catalog.northeastern.edu/search/?P=DS%205500",
+    "description": "Offers students a capstone opportunity to practice data science skills learned in previous courses and to build a portfolio. Students practice visualization, data wrangling, and machine learning skills by applying them to semester-long term projects on real-world data. Students may either propose their own projects or choose from a selection of industry options. Emphasizes the overall data science process, including identification of the scientific problem, selection of appropriate machine learning methods, and visualization and communication of results. Lectures may include additional topics, including visualization, communication, and data science ethics.Prerequisite(s):(CS\u00a05800with a minimum grade of C-  orEECE\u00a07205with a minimum grade of C- );DS\u00a05110with a minimum grade of C- ;DS\u00a05220with a minimum grade of C- ;DS\u00a05230with a minimum grade of C-"
+  },
+  {
+    "text": "CS\u00a05100. Foundations of Artificial Intelligence",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%205100",
+    "description": "Introduces the fundamental problems, theories, and algorithms of the artificial intelligence field. Topics include heuristic search and game trees, knowledge representation using predicate calculus, automated deduction and its applications, problem solving and planning, and introduction to machine learning. Required course work includes the creation of working programs that solve problems, reason logically, and/or improve their own performance using techniques presented in the course.Attribute(s):NUpath Capstone Experience,  NUpath Writing Intensive"
+  },
+  {
+    "text": "CS\u00a05180. Reinforcement Learning and Sequential Decision Making",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%205180",
+    "description": "Introduces reinforcement learning and the underlying computational frameworks and the Markov decision process framework. Covers a variety of reinforcement learning algorithms, including model-based, model-free, value function, policy gradient, actor-critic, and Monte Carlo methods. Examines commonly used representations including deep learning representations and approaches to partially observable problems. Students are expected to have a working knowledge of probability and linear algebra, to complete programming assignments, and to complete a course project that applies some form of reinforcement learning to a problem of interest."
+  },
+  {
+    "text": "CS\u00a05200. Database Management Systems",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%205200",
+    "description": "Introduces relational database management systems as a class of software systems. Prepares students to be sophisticated users of database management systems. Covers design theory, query language, and performance/tuning issues. Topics include relational algebra, SQL, stored procedures, user-defined functions, cursors, embedded SQL programs, client-server interfaces, entity-relationship diagrams, normalization, B-trees, concurrency, transactions, database security, constraints, object-relational DBMSs, and specialized engines such as spatial, text, XML conversion, and time series. Includes exercises using a commercial relational or object-relational database management system.Attribute(s):NUpath Analyzing/Using Data"
+  },
+  {
+    "text": "CS\u00a05330. Pattern Recognition and Computer Vision",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%205330",
+    "description": "Introduces fundamental techniques for low-level and high-level computer vision. Examines image formation, early processing, boundary detection, image segmentation, texture analysis, shape from shading, photometric stereo, motion analysis via optic flow, object modeling, shape description, and object recognition (classification). Discusses models of human vision (gestalt effects, texture perception, subjective contours, visual illusions, apparent motion, mental rotations, and cyclopean vision). Requires knowledge of linear algebra.Prerequisite(s):MATH\u00a02331with a minimum grade of D-  or  graduate program admission"
+  },
+  {
+    "text": "CS\u00a05340. Computer/Human Interaction",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%205340",
+    "description": "Covers the principles of human-computer interaction and the design and evaluation of user interfaces. Topics include an overview of human information processing subsystems (perception, memory, attention, and problem solving); how the properties of these systems affect the design of user interfaces; the principles, guidelines, and specification languages for designing good user interfaces, with emphasis on tool kits and libraries of standard graphical user interface objects; and a variety of interface evaluation methodologies that can be used to measure the usability of software. Other topics may include World Wide Web design principles and tools, computer-supported cooperative work, multimodal and \u201cnext generation\u201d interfaces, speech and natural language interfaces, and virtual reality interfaces. Course work includes both the creation and implementation of original user interface designs, and the evaluation of user interfaces created by others. Requires knowledge of C programming language/UNIX."
+  },
+  {
+    "text": "CS\u00a05610. Web Development",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%205610",
+    "description": "Discusses Web development for sites that are dynamic, data driven, and interactive. Focuses on the software development issues of integrating multiple languages, assorted data technologies, and Web interaction. Considers ASP.NET, C#, HTTP, HTML, CSS, XML, XSLT, JavaScript, AJAX, RSS/Atom, SQL, and Web services. Each student must deploy individually designed Web experiments that illustrate the Web technologies and at least one major integrative Web site project. Students may work in teams with the permission of the instructor. Each student or team must also create extensive documentation of their goals, plans, design decisions, accomplishments, and user guidelines. All source files must be open and be automatically served by a sources server.Attribute(s):NUpath Capstone Experience,  NUpath Writing Intensive"
+  },
+  {
+    "text": "CS\u00a06120. Natural Language Processing",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%206120",
+    "description": "Provides an introduction to the computational modeling of human language, the ongoing effort to create computer programs that can communicate with people in natural language, and current applications of the natural language field, such as automated document classification, intelligent query processing, and information extraction. Topics include computational models of grammar and automatic parsing, statistical language models and the analysis of large text corpuses, natural language semantics and programs that understand language, models of discourse structure, and language use by intelligent agents. Course work includes formal and mathematical analysis of language models, and implementation of working programs that analyze and interpret natural language text."
+  },
+  {
+    "text": "CS\u00a06200. Information Retrieval",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%206200",
+    "description": "Provides an introduction to information retrieval systems and different approaches to information retrieval. Topics covered include evaluation of information retrieval systems; retrieval, language, and indexing models; file organization; compression; relevance feedback; clustering; distributed retrieval and metasearch; probabilistic approaches to information retrieval; Web retrieval; filtering, collaborative filtering, and recommendation systems; cross-language IR; multimedia IR; and machine learning for information retrieval."
+  },
+  {
+    "text": "CS\u00a06220. Data Mining Techniques",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%206220",
+    "description": "Covers various aspects of data mining, including classification, prediction, ensemble methods, association rules, sequence mining, and cluster analysis. The class project involves hands-on practice of mining useful knowledge from a large data set.Prerequisite(s):CS\u00a05800with a minimum grade of C-  orCS\u00a07800with a minimum grade of C-"
+  },
+  {
+    "text": "CS\u00a06240. Large-Scale Parallel Data Processing",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%206240",
+    "description": "Covers big-data analysis techniques that scale out with increasing number of compute nodes, e.g., for cloud computing. Emphasizes approaches for problem and data partitioning that distribute work effectively, while keeping total cost for computation and data transfer low. Studies and analyzes deterministic and random algorithms from a variety of domains, including graphs, data mining, linear algebra, and information retrieval in terms of their cost, scalability, and robustness against skew. Course work emphasizes hands-on programming experience with modern state-of-the-art big-data processing technology. Students who do not meet course prerequisites may seek permission of instructor.Prerequisite(s):CS\u00a05800with a minimum grade of C-  orCS\u00a07800with a minimum grade of C-  orEECE\u00a07205with a minimum grade of C-"
+  },
+  {
+    "text": "CS\u00a06350. Empirical Research Methods",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%206350",
+    "description": "Presents an overview of methods for conducting empirical research within computer science. These methods help provide objective answers to questions about the usability, effectiveness, and acceptability of systems. The course covers the basics of the scientific method, building from a survey of objective measures to the fundamentals of hypothesis testing using relatively simple research designs, and on to more advanced research designs and statistical methods. The course also includes a significant amount of fieldwork, spanning the design, conduct, and presentation of small empirical studies."
+  },
+  {
+    "text": "CS\u00a06620. Fundamentals of Cloud Computing",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%206620",
+    "description": "Covers fundamentals of cloud computing, including virtualization and containers, distributed file systems and object stores, infrastructure as a service platforms, open source cloud platforms, key big data platforms, and topics in data center scale systems. Combines classroom material delivered via lectures, readings from literature, student presentations, and a semester-long software project."
+  },
+  {
+    "text": "CS\u00a06650. Building Scalable Distributed Systems",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%206650",
+    "description": "Covers the essential elements of distributed, concurrent systems and builds upon that knowledge with engineering principles and practical experience with state-of-the-art technologies and methods for building scalable systems. Scalability is an essential quality of internet-facing systems and requires specialized skills and knowledge to build systems that scale at low cost."
+  },
+  {
+    "text": "CS\u00a07140. Advanced Machine Learning",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%207140",
+    "description": "Covers topics in advanced machine learning. Presents materials in the current machine learning literature. Focuses on graphical models, latent variable models, Bayesian inference, and nonparametric Bayesian methods. Seeks to prepare students to do research in machine learning. Expects students to read conference and journal articles, present these articles, and write an individual research paper.CS\u00a07140andEECE\u00a07397are cross-listed.Prerequisite(s):CS\u00a06140with a minimum grade of C-  orEECE\u00a07204with a minimum grade of C-  or  EECE 7313 with a minimum grade of C-"
+  },
+  {
+    "text": "CS\u00a07150. Deep Learning",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%207150",
+    "description": "Introduces deep learning, including the statistical learning framework, empirical risk minimization, loss function selection, fully connected layers, convolutional layers, pooling layers, batch normalization, multilayer perceptrons, convolutional neural networks, autoencoders, U-nets, residual networks, gradient descent, stochastic gradient descent, backpropagation, autograd, visualization of neural network features, robustness and adversarial examples, interpretability, continual learning, and applications in computer vision and natural language processing. Assumes students already have a basic knowledge of machine learning, optimization, linear algebra, and statistics.Prerequisite(s):CS\u00a06140with a minimum grade of C-  orDS\u00a05220with a minimum grade of C-"
+  },
+  {
+    "text": "CS\u00a07180. Special Topics in Artificial Intelligence",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%207180",
+    "description": "Offers various topics on artificial intelligence. May be repeated up to two times."
+  },
+  {
+    "text": "CS\u00a07200. Statistical Methods for Computer Science",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%207200",
+    "description": "Introduces concepts in applied statistics. Covers frequentist and Bayesian characterization of uncertainty for continuous and categorical data, principles of experimental design, and methods of causal inference. Discusses the methodological foundations, as well as issues of practical implementation and use."
+  },
+  {
+    "text": "CS\u00a07250. Information Visualization: Theory and Applications",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%207250",
+    "description": "Covers foundational as well as contemporary topics of interest in data visualization to enable the effective representation of data across disciplines, including examples drawn from computer science, physical sciences, biomedical sciences, humanities, and economics. Topics include data visualization theory and methodology, visualization design and evaluation, visual perception and cognition, interaction principles, and data encoding and representation techniques. Students who do not meet course restrictions may seek permission of instructor."
+  },
+  {
+    "text": "CS\u00a07280. Special Topics in Database Management",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%207280",
+    "description": "Offers various topics. Possible areas include object-oriented database systems and distributed database systems. May be repeated up to two times."
+  },
+  {
+    "text": "CS\u00a07290. Special Topics in Data Science",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%207290",
+    "description": "Offers special topics in data science, including machine learning, statistics, data mining, parallel and distributed data analysis, database systems, information retrieval, knowledge representation, information visualization, natural language processing, computational biology and bioinformatics, computational social science, digital humanities, health informatics, business, and predictive analytics. May be repeated once for up to 8 total credits."
+  },
+  {
+    "text": "CS\u00a07990. Thesis",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%207990",
+    "description": "Offers selected work with the agreement of a project supervisor. May be repeated once."
+  },
+  {
+    "text": "CS\u00a08674. Master\u2019s Project",
+    "url": "https://catalog.northeastern.edu/search/?P=CS%208674",
+    "description": "Offers selected work with the agreement of a project supervisor. May be repeated once."
+  },
+  {
+    "text": "DS\u00a07995. Project",
+    "url": "https://catalog.northeastern.edu/search/?P=DS%207995",
+    "description": "Offers students an opportunity to participate in a direct data science project under the supervision of a faculty member. May be repeated once for a total of 8 credits."
+  },
+  {
+    "text": "DS\u00a07995. Project",
+    "url": "https://catalog.northeastern.edu/search/?P=DS%207995",
+    "description": "Offers students an opportunity to participate in a direct data science project under the supervision of a faculty member. May be repeated once for a total of 8 credits."
+  },
+  {
+    "text": "EECE\u00a05360. Combinatorial Optimization",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%205360",
+    "description": "Introduces combinatorial optimization, an emerging field that combines techniques from applied mathematics, operations research, and computer science to solve optimization problems over discrete structures. Emphasizes problems that arise in the areas of electrical and computer engineering, including VLSI, computer-aided design, parallel computing, computer architecture, and high-performance compiling. Covers the foundations of algorithm analysis, including asymptotic notation and complexity theory, and a range of optimization techniques, including divide and conquer, local optimization, dynamic programming, branch and bound, simulated annealing, genetic algorithms, approximation algorithms, integer and linear programming, matroid theory, and greedy algorithms. Considers the efficient generation of optimal solutions, the development and evaluation of heuristics, and the computation of tight upper and lower bounds.Prerequisite(s):EECE\u00a02560with a minimum grade of C-  orCS\u00a03000with a minimum grade of C-  or  graduate program admission"
+  },
+  {
+    "text": "EECE\u00a05612. Statistical Inference: An Introduction for Engineers and Data Analysts",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%205612",
+    "description": "Introduces fundamentals of statistical inference and data analysis through concepts of detection, estimation, and related signal processing algorithms. Addresses topics of hypothesis testing, Bayesian principles, multiple hypotheses and composite hypothesis testing, test power and uniformly powerful tests, likelihood functions, sufficient statistics, optimal estimation, bounds on the estimator variance, minimum variance linear estimation, prediction and regression, interval estimation, and confidence. Extraction of useful information from noisy observations and informed decision making are at the core of multiple disciplines ranging from traditional communications and sensor array processing to biomedical data analysis, pattern recognition and machine learning, security and defense, and financial engineering. Lectures are supported by illustrative examples, hands-on exercises, and numerical implementations grounded in real-world examples.Prerequisite(s):(EECE\u00a02520with a minimum grade of D- ;  (EECE\u00a03468with a minimum grade of D-  orMATH\u00a03081with a minimum grade of D- ) orDS\u00a05020with a minimum grade of C- ) or  graduate program admission"
+  },
+  {
+    "text": "EECE\u00a07204. Applied Probability and Stochastic Processes",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207204",
+    "description": "Covers the fundamentals of probabilistic treatment and the concept of random processes, which are essential for many engineering disciplines and data analysis in general. Includes the basic laws of probability, random variables and their functions, probability density and cumulative distributions, statistical averages, bounds on probability, and the central limit theorem. Outlines basic principles of statistics, including estimation of probability, confidence intervals, and order statistics. Provides an overview of detection and estimation problems, including maximum likelihood and Bayesian principles, Cramer-Rao bound, linear estimators, and hypothesis testing. Studies random sequences, with notions of convergence, laws of large numbers, and examples of Markov chains. Defines random processes, along with the concepts of stationarity, ergodicity, autocorrelation and power spectral density, and filtering operations."
+  },
+  {
+    "text": "EECE\u00a07323. Numerical Optimization Methods",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207323",
+    "description": "Introduces fundamental theoretical and algorithmic concepts behind numerical optimization theory for objective functions with finite numbers of parameters. Optimization problems arise ubiquitously in all areas of engineering and science. Presents established numerical methods for iterative unconstrained and constrained optimization. Topics covered include line-search and trust-region strategies, gradient descent and Newton methods and their variations, linear and quadratic programming, penalty-augmented Lagrangian methods, sequential quadratic programming, and interior point methods. The course relies on the use of Matlab in projects. Requires a basic knowledge of calculus and linear algebra."
+  },
+  {
+    "text": "EECE\u00a07337. Information Theory",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207337",
+    "description": "Discusses basic properties of entropy and mutual information, Shannon\u2019s fundamental theorems on data compression and data transmission in the single-user case, binning, and covering lemmas. Topics include rate distortion theory, feedback in one-way channels, Slepian-Wolf coding of correlated information sources, source coding with side information at the receiver, multiple access channel and its capacity region, and the capacity region of the Gaussian multiple access channel. Also covers broadcast channels, superposition coding, and the capacity region of the degraded broadcast channel; performance and comparison of TDMA, FDMA, and CDMA systems from a theoretical point of view; capacity issues for time-varying channels and channels with memory; relation between information theory and statistics; Stein\u2019s lemma; and large deviation theory.Prerequisite(s):EECE\u00a07204with a minimum grade of C-"
+  },
+  {
+    "text": "EECE\u00a07346. Probabilistic System Modeling and Analysis",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207346",
+    "description": "Covers fundamentals of probabilistic system modeling, building toward techniques that allow analyzing complex stochastic systems in a tractable fashion. Modeling large and complex systems requires reasoning about probabilistic behavior at a large scale. Reviews classic topics like Markov chains, convergence to a steady state, renewal processes, renewal reward processes, the strong law of large numbers, and the elementary renewal theorem. Additional topics include the asymptotic behavior of probabilistic systems, including stochastic approximation/Robbins-Monro type algorithms, and ODE/fluid limits. Illustrates how these modeling techniques can be applied in modeling real systems and adaptive algorithms, including queueing systems, distributed systems, and online learning algorithms like stochastic gradient descent.Prerequisite(s):EECE\u00a07204with a minimum grade of C-"
+  },
+  {
+    "text": "IE\u00a06400. Foundations for Data Analytics Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%206400",
+    "description": "Offers topics and skills designed to prepare students for advanced courses in data analytics engineering. Covers basic concepts and implementation of methods related to probability, eigenvalues and eigenvectors, cluster analysis, text mining, and time series analysis. Offers students an opportunity to learn how to work with modern data structures and apply computational methods for data cleaning and data wrangling operations."
+  },
+  {
+    "text": "IE\u00a07275. Data Mining in Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%207275",
+    "description": "Covers the theory and applications of data mining in engineering. Reviews fundamentals and key concepts of data mining, discusses important data mining techniques, and presents algorithms for implementing these techniques. Specifically covers data mining techniques for data preprocessing, association rule extraction, classification, prediction, clustering, and complex data exploration. Discusses data mining applications in several areas, including manufacturing, healthcare, medicine, business, and other service sectors.Prerequisite(s):CS\u00a05800with a minimum grade of C  orEECE\u00a07205with a minimum grade of C  orIE\u00a05374with a minimum grade of C  orIE\u00a05374with a minimum grade of D  orIE\u00a06200with a minimum grade of C  orIE\u00a06400with a minimum grade of C  orMATH\u00a07241with a minimum grade of C"
+  },
+  {
+    "text": "IE\u00a07280. Statistical Methods in Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%207280",
+    "description": "Discusses statistical models for analysis and prediction of random phenomena. Topics include review of descriptive statistics and hypothesis testing, linear models, both regression and ANOVA. Introduces design of experiments. Covers experiments with single and multiple factors of interest, and considers experiments with high-order experimental restrictions.Prerequisite(s):IE\u00a05374with a minimum grade of D  orIE\u00a05374with a minimum grade of C  (Graduate) orIE\u00a06200with a minimum grade of C  orIE\u00a06400with a minimum grade of C  orMATH\u00a07241with a minimum grade of C"
+  },
+  {
+    "text": "BIOE\u00a05750. Modeling and Inference in Bioengineering",
+    "url": "https://catalog.northeastern.edu/search/?P=BIOE%205750",
+    "description": "Develops a set of statistical tools to address poorly posed inverse problems. Interpreting complex and partial information is a routine task in research as well as in our daily lives. Such tasks include estimating quantitative properties of a biological system from indirect noisy measurements, responding to fluctuating environmental signals, or breaking encrypted messages. Common to these diverse questions is a need to construct a predictive model from partial data. Draws on examples from primary literature in biology to study text recognition, trait mapping, sequence alignment, decoding cryptographs, processing of chemoattractive signals to find food, and survival strategies of bacteria in unpredictable environments.Prerequisite(s):((MATH\u00a02321with a minimum grade of D- ;MATH\u00a02341with a minimum grade of D- );  (BIOE\u00a02365with a minimum grade of D-  or  (CHME\u00a03315with a minimum grade of D- ;CHME\u00a04315with a minimum grade of D- ))) or  graduate program admission"
+  },
+  {
+    "text": "BIOE\u00a05880. Computational Methods in Systems Bioengineering",
+    "url": "https://catalog.northeastern.edu/search/?P=BIOE%205880",
+    "description": "Introduces students to the use of computational methods in studies of systems biology, computational bioengineering, and data science and their extended utilities in a wide variety of applications in science and engineering. Covers basic elements of numerical methods and algorithms for solving different types of differential equations, running simulations, and performing optimization and data analysis. Emphasizes the concept and principle of each algorithm and its usage in R programming in the context of real-world applications in systems biology, bioinformatics, computational biology, and data science.Prerequisite(s):BIOE\u00a03380with a minimum grade of D-  or  graduate program admission"
+  },
+  {
+    "text": "BIOE\u00a06200. Mathematical Methods in Bioengineering",
+    "url": "https://catalog.northeastern.edu/search/?P=BIOE%206200",
+    "description": "Offers an overview of quantitative techniques that students will encounter in their research, providing a language and a foundation for more specialized study. Introduces basic concepts from linear algebra, ordinary and partial differential equations, transforms, function approximation, probability, statistics, and numerical computation, illustrated by applications in biology and medicine."
+  },
+  {
+    "text": "CHME\u00a05137. Computational Modeling in Chemical Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=CHME%205137",
+    "description": "Builds on chemical engineering fundamentals to introduce computer programming to allow simulation of physical, chemical, and biological systems. Covers numerical experiments (e.g., Monte Carlo, global sensitivity analysis) to analyze the significance of parameters and model assumptions. Offers students an opportunity to work on a research or design project throughout the course.Prerequisite(s):(CHME\u00a03312with a minimum grade of D- ;CHME\u00a03322with a minimum grade of D- ) or  graduate program admission"
+  },
+  {
+    "text": "CHME\u00a05649. Numerical Strategies and Data Analytics for Chemical Sciences",
+    "url": "https://catalog.northeastern.edu/search/?P=CHME%205649",
+    "description": "Introduces a broad range of numerical methods for solving large-scale, data-driven problems that arise in chemical engineering, chemistry, biochemistry, and other chemical sciences. Offers students an opportunity to obtain a detailed understanding of the derivation, analysis, and use of these numerical methods and learn how these lay the foundations to machine learning techniques. Topics include numerical programming logic, linear and nonlinear algebraic equations, polynomial fitting, numerical calculus, optimization techniques, and large-scale data analysis. Applies to a broad field of chemical and biochemical sciences, where large-scale multivariate data analyses and pattern extraction are key components.Prerequisite(s):((MATH\u00a01341with a minimum grade of D- ;MATH\u00a01342with a minimum grade of D- ) or  (MATH\u00a02321with a minimum grade of D- ;MATH\u00a02341with a minimum grade of D- )) or  graduate program admission"
+  },
+  {
+    "text": "CIVE\u00a07100. Time Series and Geospatial Data Sciences",
+    "url": "https://catalog.northeastern.edu/search/?P=CIVE%207100",
+    "description": "Offers an interdisciplinary course covering the fundamentals of time series and spatial statistics with applications in engineering, science, and business. Introduces analysis and forecasting methods for time series, spatial, and spatiotemporal data. Discusses classical time or frequency domain methods, as well as recent techniques motivated from computer science, physics, statistics, or engineering. Case studies relate to ongoing research and to real-world examples. A demo project is selected by the instructor based on discussion with individual students. A computer-based final project can be tailored to student interests in environmental engineering, sustainability sciences, security threat assessments, social sciences, business, or management science and finance. Requires undergraduate probability and statistics (CIVE\u00a03464or equivalent); background in programming languages such as MATLAB or R helpful but not required."
+  },
+  {
+    "text": "CIVE\u00a07150. Data-Driven Decision Support for Civil and Environmental Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=CIVE%207150",
+    "description": "Presents supervised and unsupervised methods for dealing with large data sets and their application to support decision making in various civil and environmental engineering areas. Focuses on predictive models and methods for knowledge mining. Discusses applications from the transportation, urban mobility, and infrastructure maintenance domains. Topics include classification: linear regression, logistic regression, K-NN, and other classifiers; dimensionality reduction; clustering: K-means, hierarchical clustering, Gaussian mixture models, density-based clustering; model validation; and text mining. Demonstrates the applicability and underlying principles of the various methods through case studies with extensive data sets. Applications include classification of pavement distress images; mobility patterns; real-time transportation demand prediction; and text mining from reports. Background in probability and statistics and familiarity with Python/R recommended."
+  },
+  {
+    "text": "EECE\u00a05360. Combinatorial Optimization",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%205360",
+    "description": "Introduces combinatorial optimization, an emerging field that combines techniques from applied mathematics, operations research, and computer science to solve optimization problems over discrete structures. Emphasizes problems that arise in the areas of electrical and computer engineering, including VLSI, computer-aided design, parallel computing, computer architecture, and high-performance compiling. Covers the foundations of algorithm analysis, including asymptotic notation and complexity theory, and a range of optimization techniques, including divide and conquer, local optimization, dynamic programming, branch and bound, simulated annealing, genetic algorithms, approximation algorithms, integer and linear programming, matroid theory, and greedy algorithms. Considers the efficient generation of optimal solutions, the development and evaluation of heuristics, and the computation of tight upper and lower bounds.Prerequisite(s):EECE\u00a02560with a minimum grade of C-  orCS\u00a03000with a minimum grade of C-  or  graduate program admission"
+  },
+  {
+    "text": "EECE\u00a05612. Statistical Inference: An Introduction for Engineers and Data Analysts",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%205612",
+    "description": "Introduces fundamentals of statistical inference and data analysis through concepts of detection, estimation, and related signal processing algorithms. Addresses topics of hypothesis testing, Bayesian principles, multiple hypotheses and composite hypothesis testing, test power and uniformly powerful tests, likelihood functions, sufficient statistics, optimal estimation, bounds on the estimator variance, minimum variance linear estimation, prediction and regression, interval estimation, and confidence. Extraction of useful information from noisy observations and informed decision making are at the core of multiple disciplines ranging from traditional communications and sensor array processing to biomedical data analysis, pattern recognition and machine learning, security and defense, and financial engineering. Lectures are supported by illustrative examples, hands-on exercises, and numerical implementations grounded in real-world examples.Prerequisite(s):(EECE\u00a02520with a minimum grade of D- ;  (EECE\u00a03468with a minimum grade of D-  orMATH\u00a03081with a minimum grade of D- ) orDS\u00a05020with a minimum grade of C- ) or  graduate program admission"
+  },
+  {
+    "text": "EECE\u00a05614. Reinforcement Learning and Decision Making Under Uncertainty",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%205614",
+    "description": "Covers fundamentals of reinforcement learning. Begins with multiarmed bandit problems and basics of exploration and exploitation. Relates the key concepts of decision theory to dynamic programming and reinforcement learning. Discusses well-known off-policy and on-policy temporal difference learning methods. Connects reinforcement learning to key concepts in reasoning under uncertainty. Covers large-scale learning methods, including deep-value-based and policy-based methods. Explores reinforcement learning applications in robot navigation in uncertain and complex environments. Describes the applications of reinforcement learning in genomics and systems biology, including the derivation of intervention strategies for treating chronic diseases such as cancer.Prerequisite(s):(EECE\u00a03468with a minimum grade of D-  orMATH\u00a03081with a minimum grade of D-  orMATH\u00a02331with a minimum grade of D-  orIE\u00a03412with a minimum grade of D- ) or  graduate program admission"
+  },
+  {
+    "text": "EECE\u00a05626. Image Processing and Pattern Recognition",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%205626",
+    "description": "Introduces processing and analysis of digital images with the goal of recognition of simple pictorial patterns. Topics include discrete signals and systems in 2D, digital images and their properties, image digitization, image enhancement, image restoration, image segmentation, feature extraction, object recognition, and pattern classification principles (Bayes rules, class boundaries) and pattern recognition methods.Prerequisite(s):((EECE 3464 with a minimum grade of D-  orEECE\u00a02520with a minimum grade of D- );  (EECE\u00a03468with a minimum grade of D-  orMATH\u00a03081with a minimum grade of D- )) or  graduate program admission"
+  },
+  {
+    "text": "EECE\u00a05639. Computer Vision",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%205639",
+    "description": "Introduces topics such as image formation, segmentation, feature extraction, matching, shape recovery, dynamic scene analysis, and object recognition. Computer vision brings together imaging devices, computers, and sophisticated algorithms to solve problems in industrial inspection, autonomous navigation, human-computer interfaces, medicine, image retrieval from databases, realistic computer graphics rendering, document analysis, and remote sensing. The goal of computer vision is to make useful decisions about real physical objects and scenes based on sensed images. Computer vision is an exciting but disorganized field that builds on very diverse disciplines such as image processing, statistics, pattern recognition, control theory, system identification, physics, geometry, computer graphics, and learning theory. Requires good programming experience in Matlab or C++."
+  },
+  {
+    "text": "EECE\u00a05640. High-Performance Computing",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%205640",
+    "description": "Covers accelerating scientific and other applications on computer clusters, many-core processors, and graphical processing units (GPUs). Modern computers take advantage of multiple threads and multiple cores to accelerate scientific and engineering applications. Topics covered include parallel computer architecture, parallel programming models, and theories of computation, as well as models for many-core processing. Highlights implementation of computer arithmetic and how it varies on different computer architectures. Includes an individual project where each student is expected to implement an application, port that application to several different styles of parallelism, and compare the results. Programming is done in variants of the C programming language.Prerequisite(s):EECE\u00a03324with a minimum grade of D-  orCS\u00a03650with a minimum grade of D-  or  graduate program admission"
+  },
+  {
+    "text": "EECE\u00a05642. Data Visualization",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%205642",
+    "description": "Introduces relevant topics and concepts in visualization, including computer graphics, visual data representation, physical and human vision models, numerical representation of knowledge and concept, animation techniques, pattern analysis, and computational methods. Topics include tools and techniques for practical visualization and elements of related fields, including computer graphics, human perception, computer vision, imaging science, multimedia, human-computer interaction, computational science, and information theory. Covers examples from a variety of scientific, medical, interactive multimedia, and artistic applications. Includes hands-on exercises and projects. Emphasizes modern engineering applications of computer vision, graphics, and pattern classification methodologies for data visualization."
+  },
+  {
+    "text": "EECE\u00a05645. Parallel Processing for Data Analytics",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%205645",
+    "description": "Covers the fundamentals of parallel machine-learning algorithms, tailored specifically to learning tasks involving large data sets. Reviews methods for dealing with both large and high-dimensional data sets, emphasizing distributed implementations. Beyond covering the theory behind statistical data analysis, the course also offers a hands-on approach, using Spark as a development platform for parallel learning. Topics include, Apache Spark fundamentals, multithreaded/cluster execution, resilient distributed data structures, map-reduce operations, using key-value pairs, joins, convex optimization, gradient descent, linear regression, Gauss-Markov theorem, ridge and lasso regularization, feature selection, cross validation, variance vs. bias trade-off, classification, logistic regression, ROC curves and AUC, matrix and tensor factorization, graph-parallel algorithms and sparsity, Perceptron algorithm, and deep neural networks.Prerequisite(s):((MATH\u00a03081with a minimum grade of D-  orEECE\u00a03468with a minimum grade of D- );  (EECE\u00a02560with a minimum grade of D-  orCS\u00a03000with a minimum grade of D-  or  CS 4800 with a minimum grade of D- )) orEECE\u00a05644with a minimum grade of C-  orDS\u00a05220with a minimum grade of C-  orDS\u00a05230with a minimum grade of C-"
+  },
+  {
+    "text": "EECE\u00a07204. Applied Probability and Stochastic Processes",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207204",
+    "description": "Covers the fundamentals of probabilistic treatment and the concept of random processes, which are essential for many engineering disciplines and data analysis in general. Includes the basic laws of probability, random variables and their functions, probability density and cumulative distributions, statistical averages, bounds on probability, and the central limit theorem. Outlines basic principles of statistics, including estimation of probability, confidence intervals, and order statistics. Provides an overview of detection and estimation problems, including maximum likelihood and Bayesian principles, Cramer-Rao bound, linear estimators, and hypothesis testing. Studies random sequences, with notions of convergence, laws of large numbers, and examples of Markov chains. Defines random processes, along with the concepts of stationarity, ergodicity, autocorrelation and power spectral density, and filtering operations."
+  },
+  {
+    "text": "EECE\u00a07215. Introduction to Distributed Intelligence",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207215",
+    "description": "Introduces distributed intelligence (complex distributed networks), their structure, and function, with examples from engineering, applied mathematics, and social sciences. Topics include spectral graph theory, notions of centrality, random graph models, contagion phenomena and epidemics, cascades and diffusion, game theory, and opinion dynamics.Prerequisite(s):EECE\u00a05580with a minimum grade of C-  orEECE\u00a07346with a minimum grade of C-"
+  },
+  {
+    "text": "EECE\u00a07223. Riemannian Optimization",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207223",
+    "description": "Offers a self-contained introduction to optimization on smooth manifolds. Covers both theoretical foundations and practical computational methods that students can apply to their own work. Introduces the theory of Riemannian geometry. Emphasizes those elements that are relevant for the construction of optimization algorithms (tensor fields, metrics, connections, geodesics, retractions, and transporters). Applies this geometric machinery to devise first- and second-order smooth optimization methods on generic Riemannian manifolds. Focuses on the development of practical computational techniques, with applications to robotics, computer vision, and machine learning."
+  },
+  {
+    "text": "EECE\u00a07323. Numerical Optimization Methods",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207323",
+    "description": "Introduces fundamental theoretical and algorithmic concepts behind numerical optimization theory for objective functions with finite numbers of parameters. Optimization problems arise ubiquitously in all areas of engineering and science. Presents established numerical methods for iterative unconstrained and constrained optimization. Topics covered include line-search and trust-region strategies, gradient descent and Newton methods and their variations, linear and quadratic programming, penalty-augmented Lagrangian methods, sequential quadratic programming, and interior point methods. The course relies on the use of Matlab in projects. Requires a basic knowledge of calculus and linear algebra."
+  },
+  {
+    "text": "EECE\u00a07337. Information Theory",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207337",
+    "description": "Discusses basic properties of entropy and mutual information, Shannon\u2019s fundamental theorems on data compression and data transmission in the single-user case, binning, and covering lemmas. Topics include rate distortion theory, feedback in one-way channels, Slepian-Wolf coding of correlated information sources, source coding with side information at the receiver, multiple access channel and its capacity region, and the capacity region of the Gaussian multiple access channel. Also covers broadcast channels, superposition coding, and the capacity region of the degraded broadcast channel; performance and comparison of TDMA, FDMA, and CDMA systems from a theoretical point of view; capacity issues for time-varying channels and channels with memory; relation between information theory and statistics; Stein\u2019s lemma; and large deviation theory.Prerequisite(s):EECE\u00a07204with a minimum grade of C-"
+  },
+  {
+    "text": "EECE\u00a07345. Big Data and Sparsity in Control, Machine Learning, and Optimization",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207345",
+    "description": "Covers the issue of handling large data sets and sparsity priors, presenting very recently developed techniques that exploit a deep connection to semi-algebraic geometry, rank minimization, and matrix completion. Focuses on applications, including control and filter design subject to information flow constraints, subspace clustering and classification on Riemannian manifolds, and activity recognition and classification and anomaly detection from video sequences. The goal of this course is to introduce the subject to people in the systems, machine-learning, and computer vision communities faced with \u201cbig data\u201d and scaling problems and serve as a quick reference guide, summarizing the state of the art as of today and providing a comprehensive set of references.Prerequisite(s):EECE\u00a05644with a minimum grade of C-  orEECE\u00a07323with a minimum grade of C-"
+  },
+  {
+    "text": "EECE\u00a07346. Probabilistic System Modeling and Analysis",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207346",
+    "description": "Covers fundamentals of probabilistic system modeling, building toward techniques that allow analyzing complex stochastic systems in a tractable fashion. Modeling large and complex systems requires reasoning about probabilistic behavior at a large scale. Reviews classic topics like Markov chains, convergence to a steady state, renewal processes, renewal reward processes, the strong law of large numbers, and the elementary renewal theorem. Additional topics include the asymptotic behavior of probabilistic systems, including stochastic approximation/Robbins-Monro type algorithms, and ODE/fluid limits. Illustrates how these modeling techniques can be applied in modeling real systems and adaptive algorithms, including queueing systems, distributed systems, and online learning algorithms like stochastic gradient descent.Prerequisite(s):EECE\u00a07204with a minimum grade of C-"
+  },
+  {
+    "text": "EECE\u00a07370. Advanced Computer Vision",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207370",
+    "description": "Offers students an opportunity to obtain practical knowledge in computer vision and to develop skills for being a successful researcher in this field. The goal of the field of computer vision is to make useful decisions about real physical objects and scenes based on sensed images. Achieving this goal requires obtaining and using descriptions (models) of the sensors and the world. Computer vision is an exciting field that builds on very diverse disciplines such as image processing, statistics, pattern recognition, control theory and system identification, physics, geometry, computer graphics, and machine learning. Course material includes state-of-the-art in the field, current research trends, and algorithms and their applications, with an emphasis on the mathematical methods used."
+  },
+  {
+    "text": "EECE\u00a07397. Advanced Machine Learning",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207397",
+    "description": "Covers topics in advanced machine learning. Presents materials in the current machine learning literature. Focuses on graphical models, latent variable models, Bayesian inference, and nonparametric Bayesian methods. Seeks to prepare students to do research in machine learning. Expects students to read conference and journal articles, present these articles, and write an individual research paper.CS\u00a07140andEECE\u00a07397are cross-listed.Prerequisite(s):CS\u00a06140with a minimum grade of C-  orEECE\u00a07204with a minimum grade of C-  or  EECE 7313 with a minimum grade of C-  orEECE\u00a05644with a minimum grade of C-"
+  },
+  {
+    "text": "EECE\u00a07945. Master\u2019s Project",
+    "url": "https://catalog.northeastern.edu/search/?P=EECE%207945",
+    "description": "Offers analytical and/or experimental work leading to a written report and a final short presentation by the end of the semester."
+  },
+  {
+    "text": "IE\u00a05137. Computational Modeling in Industrial Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%205137",
+    "description": "Builds computational models for industrial engineering applications. Offers students an opportunity to learn how to identify the problem, split it into subsystems, develop mathematical models of each sub-system, and implement in Python. Selected problems are specific to industrial engineering applications with examples of inventory systems, queuing systems, production planning and control, supply chain management, transportation, network flows, forecasting, scheduling, Monte Carlo simulation, regression analysis, sensitivity analysis, and decision support systems in data science and machine learning to test and learn from models. Students also have an opportunity to learn how to use Python libraries to implement the corresponding data structures and algorithms.Prerequisite(s):GE\u00a01111with a minimum grade of D-  orGE\u00a01502with a minimum grade of D-  or  graduate program admission"
+  },
+  {
+    "text": "IE\u00a05390. Structured Data Analytics for Industrial Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%205390",
+    "description": "Covers fundamental knowledge and skills for using structured data analytics for IE applications. Offers students an opportunity to learn data cleaning and preparation, as well as analytics of data sets, and coding in VBA (writing macros and creating GUI), both as a driver of spreadsheet formulas and as a stand-alone programming language. A final project involves the development and presentation of a structured data analytics application that addresses industrial engineering concepts.Prerequisite(s):(IE\u00a04515with a minimum grade of D-  orOR\u00a06205with a minimum grade of C- );  (IE\u00a03412with a minimum grade of D-  orIE\u00a06200with a minimum grade of C- )"
+  },
+  {
+    "text": "IE\u00a05630. Biosensor and Human Behavior Measurement",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%205630",
+    "description": "Emphasizes the measurement of human behavior in complex human-machine interaction. Topics include introduction of complex human-machine interactions; research methods in complex human-machine interactions; various kinds of human psychophysiological signals/cues, including physiological cues, facial expressions, eye-gaze movement, head movement, contextual cues; human cues and behavior relationship; transducers and measurement for these human cues/signals; basic principles of biosensors; general classification of biosensors; current technologies for building biosensors; conventional transducers and new technologies including micro-/nanotechnology; general systematic design process for biosensors; application of biosensors to understand human behavior in human-machine interactions. Also introduces the latest relevant research advancements in sensor fusion, affective computing, and emotion recognition."
+  },
+  {
+    "text": "IE\u00a05640. Data Mining for Engineering Applications",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%205640",
+    "description": "Introduces data mining concepts and statistics/machine learning techniques for analyzing and discovering knowledge from large data sets that occur in engineering domains such as manufacturing, healthcare, sustainability, and energy. Topics include data reduction, data exploration, data visualization, concept description, mining association rules, classification, prediction, and clustering. Discusses data mining case studies that are drawn from manufacturing, retail, healthcare, biomedical, telecommunication, and other sectors."
+  },
+  {
+    "text": "IE\u00a06400. Foundations for Data Analytics Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%206400",
+    "description": "Offers topics and skills designed to prepare students for advanced courses in data analytics engineering. Covers basic concepts and implementation of methods related to probability, eigenvalues and eigenvectors, cluster analysis, text mining, and time series analysis. Offers students an opportunity to learn how to work with modern data structures and apply computational methods for data cleaning and data wrangling operations."
+  },
+  {
+    "text": "IE\u00a06600. Computation and Visualization for Analytics",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%206600",
+    "description": "Offers students an opportunity to learn how to use visualization tools and techniques for data exploration, knowledge discovery, data storytelling, and decision making in engineering, healthcare operations, manufacturing, and related applications.Covers basics of Python and R for data mining and visualization. Introduces students to static and interactive visualization charts and techniques that reveal information, patterns, interactions, and comparisons by focusing on details such as color encoding, shape selection, spatial layout, and annotation."
+  },
+  {
+    "text": "IE\u00a06700. Data Management for Analytics",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%206700",
+    "description": "Covers the theory and applications of database management to support data analytics, data mining, machine learning, and artificial intelligence. Discusses the fundamental concepts and emerging technologies in database design and modeling, database systems, data storage, and the evolving world of data warehousing and data governance. Presents a balanced theory-practice focus and covers relational databases, NoSQL databases, data integration, data quality, data governance, big data, and data processing for analytics."
+  },
+  {
+    "text": "IE\u00a06750. Data Warehousing and Integration",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%206750",
+    "description": "Covers various topics in data engineering in support of decision support systems, data analytics, data mining, machine learning, and artificial intelligence. Studies on-premises data warehouse architecture, dimensional modeling of data warehouses, extract-transform-load integration from source systems to data warehouse, online analytical processing systems, and the evolving world of data quality and data governance. Offers students an opportunity to design, develop, and maintain cloud-based data pipelines. Uses both on-premises and cloud-based platforms to illustrate and implement data engineering techniques using operational and analytical data warehouses.Prerequisite(s):IE\u00a06700with a minimum grade of C-"
+  },
+  {
+    "text": "IE\u00a07270. Intelligent Manufacturing",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%207270",
+    "description": "Covers advanced and emerging topics in manufacturing. Discusses fundamentals of digital and cyber-physical manufacturing including machine communication protocols, control architectures, agent-based and holonic systems, cloud-based and service-oriented manufacturing, and applications of artificial intelligence in manufacturing."
+  },
+  {
+    "text": "IE\u00a07275. Data Mining in Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%207275",
+    "description": "Covers the theory and applications of data mining in engineering. Reviews fundamentals and key concepts of data mining, discusses important data mining techniques, and presents algorithms for implementing these techniques. Specifically covers data mining techniques for data preprocessing, association rule extraction, classification, prediction, clustering, and complex data exploration. Discusses data mining applications in several areas, including manufacturing, healthcare, medicine, business, and other service sectors.Prerequisite(s):CS\u00a05800with a minimum grade of C  orEECE\u00a07205with a minimum grade of C  orIE\u00a05374with a minimum grade of C  orIE\u00a05374with a minimum grade of D  orIE\u00a06200with a minimum grade of C  orIE\u00a06400with a minimum grade of C  orMATH\u00a07241with a minimum grade of C"
+  },
+  {
+    "text": "IE\u00a07280. Statistical Methods in Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%207280",
+    "description": "Discusses statistical models for analysis and prediction of random phenomena. Topics include review of descriptive statistics and hypothesis testing, linear models, both regression and ANOVA. Introduces design of experiments. Covers experiments with single and multiple factors of interest, and considers experiments with high-order experimental restrictions.Prerequisite(s):IE\u00a05374with a minimum grade of D  orIE\u00a05374with a minimum grade of C  (Graduate) orIE\u00a06200with a minimum grade of C  orIE\u00a06400with a minimum grade of C  orMATH\u00a07241with a minimum grade of C"
+  },
+  {
+    "text": "IE\u00a07295. Applied Reinforcement Learning in Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%207295",
+    "description": "Covers fundamentals of reinforcement learning (RL) and its applications in engineering areas. Provides an overview of the RL concepts and important algorithms. Demonstrates applications of RL to address engineering problems in manufacturing, supply chain, healthcare, and engineering economics. Offers students an opportunity to master their skills to apply RL to practical engineering projects through a series of lab sessions.Prerequisite(s):IE\u00a05374with a minimum grade of C  orIE\u00a05374with a minimum grade of D  orIE\u00a06200with a minimum grade of C  orIE\u00a06400with a minimum grade of C  orMATH\u00a07241with a minimum grade of C"
+  },
+  {
+    "text": "IE\u00a07300. Statistical Learning for Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%207300",
+    "description": "Covers statistical models and methods for data analytics. Reviews fundamentals and key concepts in statistical inferences and learning theory. Presents important statistical learning techniques and algorithms for implementation. Discusses ordinary least square for regression, overfitting and regularization, generalized linear models, and nonlinear and nonparametric models. Applies Bayesian statistics for classification problems. Offers theoretical aspects including the statistical learning framework, conditional probabilistic methods, and their applications in several areas including manufacturing, healthcare, and business.Prerequisite(s):IE\u00a05200with a minimum grade of C-  orIE\u00a05374with a minimum grade of D  orIE\u00a05374with a minimum grade of C  (Graduate) orIE\u00a06200with a minimum grade of C  orIE\u00a06400with a minimum grade of C-  or  IE 6800 with a minimum grade of C-  orMATH\u00a07241with a minimum grade of C"
+  },
+  {
+    "text": "IE\u00a07500. Applied Natural Language Processing in Engineering",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%207500",
+    "description": "Covers fundamentals of natural language processing and its applications in engineering areas. Presents an overview of the NLP concepts and important algorithms. Demonstrates applications of NLP to address engineering problems in transportation, civil engineering, manufacturing, healthcare, business, commerce, and selected other areas of engineering. A substantial course project offers students an opportunity to solidify their skills to apply NLP to practical engineering problems.Prerequisite(s):IE\u00a05374with a minimum grade of C  orIE\u00a05374with a minimum grade of D  orIE\u00a06200with a minimum grade of C  orIE\u00a06400with a minimum grade of C  orMATH\u00a07241with a minimum grade of C"
+  },
+  {
+    "text": "IE\u00a07615. Neural Networks and Deep Learning",
+    "url": "https://catalog.northeastern.edu/search/?P=IE%207615",
+    "description": "Covers the theory and applications of neural networks in engineering. Reviews basics of machine learning, discusses important neural network architectures, and presents neural network training methods and algorithms. The specific neural network models covered in this course include feedforward neural networks such as deep learning architectures, radial basis function networks, support vector machines, self-organizing feature maps, and recurrent networks. Discusses neural network applications in several areas including manufacturing, healthcare, medicine, business, and diagnostics and prognostics.Prerequisite(s):(IE\u00a06400with a minimum grade of C  orIE\u00a06600with a minimum grade of C );IE\u00a07275with a minimum grade of C"
+  }
+]
