@@ -14,6 +14,12 @@ Built with **FastAPI**, **FAISS**, **SentenceTransformers**, **Gemini 2.0 Flash*
 
 ---
 
+## 📸 Screenshot
+
+![Chatbot Screenshot](Demo/app_image.png)
+
+---
+
 ## ✨ Features
 
 - 🔎 **Semantic Retrieval** with FAISS (cosine similarity on normalized embeddings)
