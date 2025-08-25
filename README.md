@@ -14,9 +14,12 @@ Built with **FastAPI**, **FAISS**, **SentenceTransformers**, **Gemini 2.0 Flash*
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![Chatbot Screenshot](Demo/app_image.png)
+![Chatbot Screenshot](Demo/app_image1.png)
+
+
+![Chatbot Screenshot](Demo/app_image2.png)
 
 ---
 
